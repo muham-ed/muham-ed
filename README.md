@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - Passing ICDL exam and technical certifications  
 
 ## 🔗 Find me here
-- LinkedIn: [Your LinkedIn Link]  
-- Upwork: [Your Upwork Profile]  
-- Portfolio Website: [Your Website]  
+- LinkedIn: [www.linkedin.com/in/mohamed-ala-a-2b333533a]  
+- Upwork: [[Your Upwork Profile](https://www.upwork.com/freelancers/~01cd29e15f3d87385c)]  
+- Portfolio Website: [[Your Website](https://muham-ed.github.io/MY-WEBSITE-1/index.html)]  
 
 ---
 ⭐ Feel free to check my repositories and projects. Contributions and feedback are always welcome!
