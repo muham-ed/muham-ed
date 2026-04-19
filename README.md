@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Mohamed Alaa Eldin 👋
+
+🎓 MIS Graduate from Alexandria University (2026)  
+💻 Full Stack Web Developer (HTML, CSS, JS, PHP, MySQL)  
+⚙️ Odoo Community Specialist (POS, Inventory, Accounting, Dashboards)  
+📊 Data Analyst (Power BI, SQL, Python, R, Tableau, Excel)  
+🎬 Content Creator (Educational videos on Data Analysis, Web Development, Computer Basics)  
+🌐 Freelance projects on Upwork, Fiverr, and مستقل  
+
+## 🚀 Current Goals
+- Building professional bilingual (Arabic + English) educational courses  
+- Expanding portfolio with GitHub & YouTube projects  
+- Increasing freelance income through targeted platforms  
+- Passing ICDL exam and technical certifications  
+
+## 🔗 Find me here
+- LinkedIn: [Your LinkedIn Link]  
+- Upwork: [Your Upwork Profile]  
+- Portfolio Website: [Your Website]  
+
+---
+⭐ Feel free to check my repositories and projects. Contributions and feedback are always welcome!
